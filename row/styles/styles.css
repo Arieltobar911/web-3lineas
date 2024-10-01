@@ -1,0 +1,72 @@
+.row_0{
+    background-color: rgb(100, 187, 238);
+    height: 250px;
+    width: 1300px;
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+    .img1{
+        margin-left: 100px;
+        margin-top: 5px;
+        align-self: center;
+    }
+
+    .img2{
+        margin-left: 100px;
+        margin-top: 5px;
+        align-self: center;
+    }
+
+    .img3{
+        margin-left: 100px;
+        margin-top: 5px;
+        align-self: center;
+    }
+
+.row_1{
+    background-color: rgb(247, 160, 242);
+    height: 250px;
+    width: 1300px;
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+    .img4{
+        margin-left: 100px;
+        margin-top: 5px;
+        align-self: center;
+    }
+
+    .img5{
+        margin-left: 100px;
+        margin-top: 5px;
+        align-self: center;
+    }
+
+.row_2{
+    background-color: rgb(224, 208, 208);
+    height: 250px;
+    width: 1300px;
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+    .img6{
+        margin-left: 100px;
+        margin-top: 5px;
+        align-self: center;
+    }
+    .img7{
+        margin-left: 100px;
+        margin-top: 5px;
+        align-self: center;
+    }
+    .img8{
+        margin-left: 100px;
+        margin-top: 5px;
+        align-self: center;
+    }
